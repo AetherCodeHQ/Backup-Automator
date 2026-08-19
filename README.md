@@ -23,12 +23,12 @@ Every developer needs backup automator — but existing tools are either too com
 
 ## Features
 
-- **Incremental backups** — Incremental backups
-- **Compression and encryption** — Compression and encryption
-- **Cloud storage integration** — Cloud storage integration
-- **Scheduled backups** — Scheduled backups
-- **Restore verification** — Restore verification
-- **CLI management** — CLI management
+- Incremental backups
+- Compression and encryption
+- Cloud storage integration
+- Scheduled backups
+- Restore verification
+- CLI management
 
 ## Quick Start
 
